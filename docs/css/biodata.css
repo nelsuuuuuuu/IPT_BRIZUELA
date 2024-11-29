@@ -1,0 +1,13 @@
+body{
+    margin: 20px;
+}
+h1{
+    text-align: cneter;
+    margin-bottom: 30px;
+    front-radius: 8px;
+}
+h2{
+    color: aliceblue;
+    background-color: black;
+    border-radius: 8px;
+}
